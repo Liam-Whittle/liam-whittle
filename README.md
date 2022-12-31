@@ -6,4 +6,4 @@ I like building useful applications that help solve everyday problems.
 
 ---
 
-![Chamonix-Rhone-Alpes](https://www.oliverstravels.com/blog/wp-content/uploads/2019/07/Chamonix-Rhone-Alpes.png){ width=50% } 
+![Chamonix-Rhone-Alpes](https://www.oliverstravels.com/blog/wp-content/uploads/2019/07/Chamonix-Rhone-Alpes.png = 200x100) 
